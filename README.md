@@ -1,12 +1,12 @@
 # JUEGOS SERIOS 2021/2022
 # V E N O M
 
-![LOGO](./webAssets/images/logo.png)
+![LOGO](./assetsWeb/corazon.png)
 
 
 | **Género:** Aventura gráfica | **Modos:** Singleplayer |
 | --- | --- |
-| ![LOGO](./webAssets/images/logo.png) | **Plataformas:** Windows x64 |
+| ![PEGI](./assetsWeb/pegi12.png) | **Plataformas:** Windows x64 |
 
 
 Venom es una **aventura gráfica** en la cual el jugador tomará el papel de una adolescente que empezará una relación con un chico de su clase y que rápidamente se convertirá en una relación tóxica. Mediante opciones de diálogo, tendrá que tomar decisiones y avanzar en la historia.
@@ -27,5 +27,12 @@ Algunas situaciones que pueden aparecer que indiquen toxicidad son:
 El principal objetivo de este juego serio es **concienciar** a los usuarios acerca de la **violencia de género** y proponerles situaciones que siguen viviendo a día de hoy
 muchas mujeres para ver cómo actuarían ellos.
 
+
+
+### This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+![LICENCIA](./assetsWeb/licencia.png)
+
+
+## Autores
 ### Mario Miguel Cuartero
 ### Simeón Konstantinov Petrov
