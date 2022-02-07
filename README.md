@@ -30,6 +30,12 @@ muchas mujeres para ver cómo actuarían ellos.
 
 
 ### This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+- Reconocimiento — Debe reconocer adecuadamente la autoría, proporcionar un enlace a la licencia e indicar si se han realizado cambios<. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que tiene el apoyo del licenciador o lo recibe por el uso que hace.
+
+- No Comercial — No puede utilizar el material para una finalidad comercial.
+
+- Compartir Igual — Si remezcla, transforma o crea a partir del material, deberá difundir sus contribuciones bajo la misma licencia que el original.
+
 ![LICENCIA](./assetsWeb/licencia.png)
 
 
